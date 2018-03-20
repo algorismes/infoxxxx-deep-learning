@@ -6,7 +6,7 @@ Lecture 1: Deep Learning Essentials
 
 <br><br>
 
-.bold[Gilles Louppe]
+.bold[Author]
 
 ???
 
