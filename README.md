@@ -9,7 +9,7 @@ The content of these lectures is under development.
 
 ## Slides
 
-- Lecture 1: [Deep Learning Essentials](https://glouppe.github.io/infoxxxx-deep-learning/?p=lecture1.md)
+- Lecture 1: [Deep Learning Essentials](https://algorismes.github.io/infoxxxx-deep-learning/?p=lecture1.md)
 - Lecture 2: [Convolutional networks](https://glouppe.github.io/infoxxxx-deep-learning/?p=lecture2.md)
 - Lecture 3: [Variational auto-encoders](https://glouppe.github.io/infoxxxx-deep-learning/?p=lecture3.md)
 - Lecture 4: [Generative adversarial networks](https://glouppe.github.io/infoxxxx-deep-learning/?p=lecture4.md)
