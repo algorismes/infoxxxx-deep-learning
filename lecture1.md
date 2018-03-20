@@ -2,7 +2,7 @@ class: middle, center, title-slide
 
 # Deep Learning
 
-Lecture 1: Deep Learning Essentials
+Lecture 1: Deep Learning Essentials...
 
 <br><br>
 
